@@ -1,0 +1,6 @@
+0, Esta linea termina el programa, NO CAMBIAR
+1, Un tipo de archivo en el que todos los valores estan delimitados por comas.,CSV
+2, Extencion para los proyectos de ruby (agregar el punto): ,.rb
+3, Simbolo para crear un hash: ,{}
+4, Por defecto los atributos de un objeto en Ruby son: ,Privados
+5, Palabra reservada para inicializar un objeto (agregar el punto): ,.new
