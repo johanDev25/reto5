@@ -36,7 +36,7 @@ class Questions
   end
 
   def guess
-   @Question[@hit][:answ].tr("\n","").downcase!
+   @Question[@hit][:answ].tr("\n","").downcase
  end
 
  def a
@@ -73,5 +73,4 @@ while (not p.nq)
    break 
   end
 end
-
 
